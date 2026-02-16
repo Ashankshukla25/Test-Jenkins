@@ -3,5 +3,6 @@ class Hello{
         String name = "Ashank";
         System.out.println("First code");
         System.out.println("Hello from "+name);
+        System.out.println("Second code");
     }
 }
